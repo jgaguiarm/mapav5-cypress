@@ -1,0 +1,52 @@
+{
+  "profiles": {
+    "agents": [
+      {
+        "role":"Proponente",
+        "name":"Jimmy Cliff",
+        "email":"cliffjimmy@testes.com",
+        "password":"Password2024@"
+      },    
+      {
+        "role":"Proponente",
+        "name":"Hollie Cook",
+        "email":"cookhollie@testes.com",
+        "password":"Password2024@"
+      },
+      {
+        "role":"Proponente",
+        "name":"BB King",
+        "email":"kingbb@testes.com",
+        "password":"Password2024@"
+      }
+    ],
+    "admins": [
+      {
+        "role":"Administrador de Oportunidade",
+        "name":"Janes Joplin",
+        "email":"joplinjanes@testes.com",
+        "password":"Password2024@"
+      },    
+      {
+        "role":"Administrador de Oportunidade",
+        "name":"Ray Charles",
+        "email":"charlesray@testes.com",
+        "password":"Password2024@"
+      }
+    ],
+    "evaluators": [
+      {
+        "role":"Avaliador",
+        "name":"Mike Love",
+        "email":"mikelove@testes.com",
+        "password":"Password2024@"
+      },
+      {
+        "role":"Avaliador",
+        "name":"Sevie Wonder",
+        "email":"steviewonder@testes.com",
+        "password":"Password2024@"
+      }
+    ]
+  }
+}

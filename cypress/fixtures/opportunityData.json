@@ -1,0 +1,32 @@
+{
+    "opportunities":[
+        {
+            "opportunityNumber":5245,
+            "categories":["Musica","Dança","Audiovisual","Cultura Digital"],
+            "agentEmail":"charlesray@testes.com",
+            "agentPassword":"Password2024@",
+            "adminOpportunityEmail":"joplinjanes@testes.com",
+            "adminOpportunityPassword":"Password2024@",
+            "recourseText":"Solicitação de recurso",            
+            "recourseAnswer":"Resposta do recurso"
+        },
+        {
+            "opportunityNumber":5292,
+            "agentEmail":"joplinjanes@testes.com",
+            "agentPassword":"Password2024@",
+            "adminOpportunityEmail":"mikelove@testes.com",
+            "adminOpportunityPassword":"Password2024@",
+            "recourseText":"Solicitação de recurso",            
+            "recourseAnswer":"Resposta do recurso"
+        }, 
+        {
+            "opportunityNumber":12,
+            "agentEmail":"joplinjanes@testes.com",
+            "agentPassword":"Password2024@",
+            "adminOpportunityEmail":"charlesray@testes.com",
+            "adminOpportunityPassword":"Password2024@",
+            "recourseText":"Envio da diligência",            
+            "recourseAnswer":"Resposta do da diligência"
+        } 
+    ]
+}

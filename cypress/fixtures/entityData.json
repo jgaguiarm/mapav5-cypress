@@ -1,0 +1,10 @@
+{
+  "entities":[
+      {
+          "entityType":"Evento",
+          "entityName":"Evento de Teste Mapa Cultural V5",
+          "entityDescription":"Descrição curta do meu evento",
+          "ageRating":"18 anos"
+      }      
+  ]
+}
